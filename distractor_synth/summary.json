@@ -1,0 +1,45 @@
+{
+ "design": "distractor patches cropped from assessment imagery (matching altitude), composited at 1 per cell-equivalent onto target-free frames; largest-bright-component alpha, feathered; seeds 42",
+ "q_per_distractor": {
+  "scratch_40m_tau0.10": {
+   "flagged": 0,
+   "n": 2184,
+   "ci95": [
+    0.0,
+    0.0018
+   ]
+  },
+  "transfer_11m_tau0.24": {
+   "flagged": 0,
+   "n": 97,
+   "ci95": [
+    0.0,
+    0.038
+   ]
+  },
+  "transfer_15m_tau0.01": {
+   "flagged": 5,
+   "n": 186,
+   "q": 0.0269,
+   "ci95": [
+    0.0115,
+    0.0614
+   ]
+  }
+ },
+ "background_boxes_composited_vs_clean": {
+  "40m": [
+   62,
+   65
+  ],
+  "15m": [
+   18,
+   16
+  ],
+  "11m_tau0.24": [
+   0,
+   1
+  ]
+ },
+ "settings_check": "clean 40m frames re-run: 65 boxes at tau 0.10 -> FPR 0.0288 (published 0.029)"
+}
