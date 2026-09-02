@@ -1,5 +1,6 @@
 {
  "fpr_11m.zip": "396ce619a21505b4ddc92943f5360166280b7956a2c426f58dbadc92266de3d9",
  "fpr_15m.zip": "e471bda5501e08e12d9727779fb25d77ce9fc57b2a32a74d014dcf6eac95a96d",
- "fpr_40m.zip": "79f51bcf53bab6fc3bd7453ec7f419ae31628af33c1e1e3c1391ed00a5c8c7e7"
+ "fpr_40m.zip": "79f51bcf53bab6fc3bd7453ec7f419ae31628af33c1e1e3c1391ed00a5c8c7e7",
+ "detector_40m_yolov9c_epoch99.pt": "130c3d9d03594010a3b5cd79e4b56b76af6b0eab4ae365e1afbcce70aa947aec"
 }
