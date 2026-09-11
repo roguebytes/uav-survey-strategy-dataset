@@ -1,9 +1,9 @@
 # Fly High or Fly Low? — Dataset
 
 Field imagery, annotations, detector weights, and detector predictions for the
-manuscript **"Fly High or Fly Low? Selecting Time-Efficient UAV Search
+paper **"Fly High or Fly Low? Selecting Time-Efficient UAV Search
 Strategies for High-Recall Aerial Detection"** (Loewenich, Maire, Sandino,
-Gonzalez; submitted to *Remote Sensing*, 2026). Companion to the simulation
+Gonzalez; published open access in *Remote Sensing* **2026**, *18*(18), 3129 — https://doi.org/10.3390/rs18183129). Companion to the simulation
 code at https://github.com/roguebytes/uav-survey-strategy-simulation.
 
 All imagery: DJI Mini 4 Pro, 4032 x 2268 stills, ISO 100 (a small minority of
