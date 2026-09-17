@@ -45,6 +45,11 @@ repository limits):
 | `fpr_15m.zip` | 93 target-free frames, 23 Aug 2026, 15 m, same oval |
 | `fpr_40m.zip` | 168 target-free frames, 25 Aug 2026, 40 m, same oval |
 
+## See also
+
+- [roguebytes/uav-survey-strategy-simulation](https://github.com/roguebytes/uav-survey-strategy-simulation): the Monte Carlo model and the decision table behind the paper.
+- [roguebytes/uav-detect-and-track](https://github.com/roguebytes/uav-detect-and-track): a ROS 2 and Gazebo simulation that flies the survey-then-verify profile end to end with a YOLOv9-C detector.
+
 ## Licence
 
 Released under CC BY 4.0 (see LICENSE). Please cite the manuscript when
